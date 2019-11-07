@@ -1,4 +1,4 @@
-#这是通过springboot整合的rabbitmq
+## 这是通过springboot整合的rabbitmq
 
 运行起来实例即可，本地采用的是8080端口
 
